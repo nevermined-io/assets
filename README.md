@@ -1,0 +1,2 @@
+# assets
+Nevermined public assets
